@@ -1,2 +1,2 @@
-# Coureses
+# Courses
 Materials for courses
