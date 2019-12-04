@@ -1,2 +1,2 @@
 # Coureses
-Materials for coursese
+Materials for courses
